@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <windows.h>
+//this is hello world
+int main() {
+    printf("hello world!\n");
+    system("pause");
+    return 0;
+}
+/*end

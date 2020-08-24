@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+/*qiuhe*/
+main()
+{
+double x=-1e3,y=2E-3,z=0;
+z=ad(x,y);
+printf("sum=%f",z);
+}
+double ad(double a,double b)
+{
+return a+b;
+}
